@@ -1,0 +1,46 @@
+Cool GitHub Repositories:
+Curtis Ohlmeier | 4/4/2022
+
+1. Computer Science courses with video lectures-
+	- https://github.com/Developer-Y/cs-video-courses
+Description: This repository is a massive organized compilation of video
+lectures on all different aspects of computer science. This is really 
+cool since it covers so many topics that I am interested in. It also can
+be used for reference on some of our past classes such as Data Structures,
+Systems programming, and also Software Engineering in the future.
+
+2. Nintendo Switch emulator-
+	- https://github.com/yuzu-emu/yuzu
+Description: This c++ project is an emulator for the nintendo switch and
+can run most games from the switch. There are more than 200 contributors
+on the project and you can also sponsor the team on patreon. Obviously it
+is fun anytime you get a chance to mess around with and enjoy any
+Nintendo games and not needing to have the switch itself to enjoy some of 
+those games is definitely a great thing.
+
+3. Cataclysm - Dark Days Ahead
+	- https://github.com/CleverRaven/Cataclysm-DDA
+Description: This turn-based survival game is written in C++ and more than 
+1500 contributors! I've always heard that making contributions to open source
+projects would be great for early portfolio work and this seems like a really
+awesome project to jump in and help out on. They deal with some procedural 
+generation, vehicles, combat, and many other mechanics that would be interesting
+to dive into.
+
+4. TheAlgorithms - C-Sharp
+	- https://github.com/TheAlgorithms/C-Sharp
+Description: This C# project covers an unbelievable number of algorithms. This
+resource could be extremely useful for coding interviews in the future once I
+research what algorithms are the most common and then I can find the C#
+implementation instead of having to translate it from another language myself.
+They cover implementing queues as arrays, lists, and stack, as well as
+implementing a stack as an array or list. There are just too many topics to
+list, but overall it is certainly one I will keep my eye on.
+
+5. Karan - GitIgnore for Command Line
+	- https://github.com/karan/joe
+Description: This project makes it easy to generate .gitignore files from your
+command line. The usage is very simple with short and easy commands that allow
+you to access, update, and generate gitignore files. It has plenty of other
+useful functionality as well such as overwriting an existing file, appending on
+an existing file, and dealing with multiple languages.
